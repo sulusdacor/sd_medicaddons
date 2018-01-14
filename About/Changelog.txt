@@ -1,0 +1,73 @@
+personal changelog for mod "sd_medicaddons"
+
+- 30/10/2016
+
+	- fixed research prerequisite to space surgery lamp, was industrial before
+	- cleaned up the research sections in the xml to bring them in line with other commands using <li>
+
+- 23/11/2016
+
+	- added comp to my vanillabedbase, since it seemed to be missing in the abstract and therefor for singlebeds
+
+- 22/12/2016
+
+	- updated for a16
+	- renamed texture names space to spacer
+	- removed tags from research, rename space to spacer in research xml
+	- added research tree locations: x = 13,14,15
+	- set ai_chill destination to false
+	- moved more xml tag lines to abstract from the individual facilities
+	- split xml file into seperate ones, base, eras and vanilla overrides
+	- added trade tag furniture to facilities
+	- changed medical treatmentquality/immunity gain ( mostly higher boni, less mali):
+		medieval washpan: +0,01 -> +0,02
+		medieval surg instr: -0,02 -> -0,01
+		medieval surg lamp: +0,01 -> +0,02
+		industr surg instr: 0 -> 0,02
+		indust lamp +0,02 -> +0,06
+		spacer vitals: +0,06 -> +0,1
+		spacer instruments: +0,02 -> +0,04
+		spacer surg lamp: +0,04 -> + 0,08
+	- added generic mass from vitals monitor of 20, for all facilites in base
+
+- 25/12/2016
+
+	- updated defnames from more furniture mod (in vanillachanged commentform)
+	- updated Preview image
+
+- 06/01/2017
+
+	- fixed the worktobuild xml tag, used old worktomake, which got idebuged to instant build (work 1)
+
+- 29/01/2017
+
+	- added display range for surgery lights. these show the overlight radius (100% light range)
+
+- 30/05/2017
+
+	- changed masses from base 20 to 10 medieval, 20 industrial, 30 spacer
+	- added patch folder + file that removes the old override process, should improve compatibility
+
+- 29/12/2017
+
+	- update to b18
+	- updated about file, since patchoperations do change thing with overwriting+mod compatiblity
+	- fixed roots <Defs>
+	- added research tab
+	- added bedrolls to patch list
+	- fixed some casesensitve xml tags
+	- added adv comp to spacer stuff (all slightly more expensive now)
+			- removed components 5 and replaced 2 adv (rate is 4comp about 1adv)
+			- 1 adv added to instruments, had no component cost
+
+- 06/01/2018
+
+	- added patchoperationfind mod
+	- added the patches now in the main mod (makes additional patchmods obsolete
+	- so far supports: [t]morebeds(both versions), goodnight, cts, rimkea
+	- updated about file with note for compatibiltiy
+
+- 07/01/2018
+
+	- added support for mod fast regen b18
+	- in vanilla patch replaced li[1] with the compclass variant

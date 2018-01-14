@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+ <!--================================ patches for mod sd medicaddons ======================================-->
+ 
+	
+	<!--========================= adding facilities =============================-->
+	
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="sd_medicaddons.PatchOperationFindMod">
+				<modName>RIMkea</modName>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "PILFURBed"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+				<value>
+				  <li>sd_medicaddons_medieval_surg_washpan</li>  
+				  <li>sd_medicaddons_medieval_surg_instruments</li>
+				  <li>sd_medicaddons_medieval_surg_lamp</li>
+				  <li>sd_medicaddons_industrial_surg_instruments</li>
+				  <li>sd_medicaddons_industrial_surg_lamp</li>
+				  <li>sd_medicaddons_spacer_surg_vitalsmonitor</li>
+				  <li>sd_medicaddons_spacer_surg_instruments</li>
+				  <li>sd_medicaddons_spacer_surg_lamp</li>
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="sd_medicaddons.PatchOperationFindMod">
+				<modName>RIMkea</modName>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "SNOREGGSingle"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+				<value>
+				  <li>sd_medicaddons_medieval_surg_washpan</li>  
+				  <li>sd_medicaddons_medieval_surg_instruments</li>
+				  <li>sd_medicaddons_medieval_surg_lamp</li>
+				  <li>sd_medicaddons_industrial_surg_instruments</li>
+				  <li>sd_medicaddons_industrial_surg_lamp</li>
+				  <li>sd_medicaddons_spacer_surg_vitalsmonitor</li>
+				  <li>sd_medicaddons_spacer_surg_instruments</li>
+				  <li>sd_medicaddons_spacer_surg_lamp</li> 
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="sd_medicaddons.PatchOperationFindMod">
+				<modName>RIMkea</modName>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "SNOREGGDouble"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+				<value>
+				  <li>sd_medicaddons_medieval_surg_washpan</li>  
+				  <li>sd_medicaddons_medieval_surg_instruments</li>
+				  <li>sd_medicaddons_medieval_surg_lamp</li>
+				  <li>sd_medicaddons_industrial_surg_instruments</li>
+				  <li>sd_medicaddons_industrial_surg_lamp</li>
+				  <li>sd_medicaddons_spacer_surg_vitalsmonitor</li>
+				  <li>sd_medicaddons_spacer_surg_instruments</li>
+				  <li>sd_medicaddons_spacer_surg_lamp</li> 
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="sd_medicaddons.PatchOperationFindMod">
+				<modName>RIMkea</modName>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "KRUDNEPPSingle"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+				<value>
+				  <li>sd_medicaddons_medieval_surg_washpan</li>  
+				  <li>sd_medicaddons_medieval_surg_instruments</li>
+				  <li>sd_medicaddons_medieval_surg_lamp</li>
+				  <li>sd_medicaddons_industrial_surg_instruments</li>
+				  <li>sd_medicaddons_industrial_surg_lamp</li>
+				  <li>sd_medicaddons_spacer_surg_vitalsmonitor</li>
+				  <li>sd_medicaddons_spacer_surg_instruments</li>
+				  <li>sd_medicaddons_spacer_surg_lamp</li>
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="sd_medicaddons.PatchOperationFindMod">
+				<modName>RIMkea</modName>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "SLABNEPPDouble"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+				<value>
+				  <li>sd_medicaddons_medieval_surg_washpan</li>  
+				  <li>sd_medicaddons_medieval_surg_instruments</li>
+				  <li>sd_medicaddons_medieval_surg_lamp</li>
+				  <li>sd_medicaddons_industrial_surg_instruments</li>
+				  <li>sd_medicaddons_industrial_surg_lamp</li>
+				  <li>sd_medicaddons_spacer_surg_vitalsmonitor</li>
+				  <li>sd_medicaddons_spacer_surg_instruments</li>
+				  <li>sd_medicaddons_spacer_surg_lamp</li>
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+	
+	
+
+</Patch>
