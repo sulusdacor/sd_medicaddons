@@ -71,3 +71,7 @@ personal changelog for mod "sd_medicaddons"
 
 	- added support for mod fast regen b18
 	- in vanilla patch replaced li[1] with the compclass variant
+
+- 15/01/2018
+
+	- added modsync
