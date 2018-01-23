@@ -75,3 +75,9 @@ personal changelog for mod "sd_medicaddons"
 - 15/01/2018
 
 	- added modsync
+
+- 23/01/2018
+
+	- added neutech to modcompatibility
+	- added linkable for vanilla animal sleeping box and animal bed
+	- added version number in about file

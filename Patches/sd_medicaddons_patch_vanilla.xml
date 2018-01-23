@@ -86,5 +86,75 @@
 		  <li>sd_medicaddons_spacer_surg_lamp</li>
 		</value>
 	</Operation>
+	
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>*/ThingDef[defName = "AnimalSleepingBox"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]</xpath>
+				<success>Invert</success>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "AnimalSleepingBox"]/comps</xpath>
+				<value>
+				  <li Class="CompProperties_AffectedByFacilities">
+					<linkableFacilities>
+					  <li>VitalsMonitor</li>
+					</linkableFacilities>
+				  </li>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "AnimalSleepingBox"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+				<value>
+				  <li>sd_medicaddons_medieval_surg_washpan</li>  
+				  <li>sd_medicaddons_medieval_surg_instruments</li>
+				  <li>sd_medicaddons_medieval_surg_lamp</li>
+				  <li>sd_medicaddons_industrial_surg_instruments</li>
+				  <li>sd_medicaddons_industrial_surg_lamp</li>
+				  <li>sd_medicaddons_spacer_surg_vitalsmonitor</li>
+				  <li>sd_medicaddons_spacer_surg_instruments</li>
+				  <li>sd_medicaddons_spacer_surg_lamp</li>
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+	
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>*/ThingDef[defName = "AnimalBed"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]</xpath>
+				<success>Invert</success>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "AnimalBed"]/comps</xpath>
+				<value>
+				  <li Class="CompProperties_AffectedByFacilities">
+					<linkableFacilities>
+					  <li>VitalsMonitor</li>
+					</linkableFacilities>
+				  </li>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "AnimalBed"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+				<value>
+				  <li>sd_medicaddons_medieval_surg_washpan</li>  
+				  <li>sd_medicaddons_medieval_surg_instruments</li>
+				  <li>sd_medicaddons_medieval_surg_lamp</li>
+				  <li>sd_medicaddons_industrial_surg_instruments</li>
+				  <li>sd_medicaddons_industrial_surg_lamp</li>
+				  <li>sd_medicaddons_spacer_surg_vitalsmonitor</li>
+				  <li>sd_medicaddons_spacer_surg_instruments</li>
+				  <li>sd_medicaddons_spacer_surg_lamp</li>
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+	
+	
   
 </Patch>
