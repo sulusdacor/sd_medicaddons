@@ -81,3 +81,7 @@ personal changelog for mod "sd_medicaddons"
 	- added neutech to modcompatibility
 	- added linkable for vanilla animal sleeping box and animal bed
 	- added version number in about file
+
+- 04/04/2018
+
+	- added medieval times to patches, modcomp
