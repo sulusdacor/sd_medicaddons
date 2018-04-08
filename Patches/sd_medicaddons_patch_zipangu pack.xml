@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+ <!--================================ patches for medicaddons on zipangu pack ======================================-->
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="sd_medicaddons.PatchOperationFindMod">
+				<modName>【ZP】Zipangu pack</modName>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "StrawBed"]/comps</xpath>
+				<value>
+					<li Class="CompProperties_AffectedByFacilities">
+					<linkableFacilities>
+						<li>sd_medicaddons_medieval_surg_washpan</li>  
+						<li>sd_medicaddons_medieval_surg_instruments</li>
+						<li>sd_medicaddons_medieval_surg_lamp</li>
+						<li>sd_medicaddons_industrial_surg_instruments</li>
+						<li>sd_medicaddons_industrial_surg_lamp</li>
+						<li>sd_medicaddons_spacer_surg_vitalsmonitor</li>
+						<li>sd_medicaddons_spacer_surg_instruments</li>
+						<li>sd_medicaddons_spacer_surg_lamp</li>
+						<li>VitalsMonitor</li>
+						<li>EndTable</li>
+						<li>Dresser</li>
+					</linkableFacilities>
+					</li>
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+	
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="sd_medicaddons.PatchOperationFindMod">
+				<modName>【ZP】Zipangu pack</modName>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "DoubleStrawBed"]/comps</xpath>
+				<value>
+					<li Class="CompProperties_AffectedByFacilities">
+					<linkableFacilities>
+						<li>sd_medicaddons_medieval_surg_washpan</li>  
+						<li>sd_medicaddons_medieval_surg_instruments</li>
+						<li>sd_medicaddons_medieval_surg_lamp</li>
+						<li>sd_medicaddons_industrial_surg_instruments</li>
+						<li>sd_medicaddons_industrial_surg_lamp</li>
+						<li>sd_medicaddons_spacer_surg_vitalsmonitor</li>
+						<li>sd_medicaddons_spacer_surg_instruments</li>
+						<li>sd_medicaddons_spacer_surg_lamp</li>
+						<li>VitalsMonitor</li>
+						<li>EndTable</li>
+						<li>Dresser</li>
+					</linkableFacilities>
+					</li>
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+	
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="sd_medicaddons.PatchOperationFindMod">
+				<modName>【ZP】Zipangu pack</modName>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "SuperiorStrawBed"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+				<value>
+						<li>sd_medicaddons_medieval_surg_washpan</li>  
+						<li>sd_medicaddons_medieval_surg_instruments</li>
+						<li>sd_medicaddons_medieval_surg_lamp</li>
+						<li>sd_medicaddons_industrial_surg_instruments</li>
+						<li>sd_medicaddons_industrial_surg_lamp</li>
+						<li>sd_medicaddons_spacer_surg_vitalsmonitor</li>
+						<li>sd_medicaddons_spacer_surg_instruments</li>
+						<li>sd_medicaddons_spacer_surg_lamp</li>
+						<li>VitalsMonitor</li>
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+	
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="sd_medicaddons.PatchOperationFindMod">
+				<modName>【ZP】Zipangu pack</modName>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "SuperiorDoubleStrawBed"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+				<value>
+						<li>sd_medicaddons_medieval_surg_washpan</li>  
+						<li>sd_medicaddons_medieval_surg_instruments</li>
+						<li>sd_medicaddons_medieval_surg_lamp</li>
+						<li>sd_medicaddons_industrial_surg_instruments</li>
+						<li>sd_medicaddons_industrial_surg_lamp</li>
+						<li>sd_medicaddons_spacer_surg_vitalsmonitor</li>
+						<li>sd_medicaddons_spacer_surg_instruments</li>
+						<li>sd_medicaddons_spacer_surg_lamp</li>
+						<li>VitalsMonitor</li>
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+	
+	<!--===== animal beds =====-->
+	
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="sd_medicaddons.PatchOperationFindMod">
+				<modName>【ZP】Zipangu pack</modName>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "AnimalStrawBedSmall"]/comps</xpath>
+				<value>
+					<li Class="CompProperties_AffectedByFacilities">
+					<linkableFacilities>
+						<li>sd_medicaddons_medieval_surg_washpan</li>  
+						<li>sd_medicaddons_medieval_surg_instruments</li>
+						<li>sd_medicaddons_medieval_surg_lamp</li>
+						<li>sd_medicaddons_industrial_surg_instruments</li>
+						<li>sd_medicaddons_industrial_surg_lamp</li>
+						<li>sd_medicaddons_spacer_surg_vitalsmonitor</li>
+						<li>sd_medicaddons_spacer_surg_instruments</li>
+						<li>sd_medicaddons_spacer_surg_lamp</li>
+						<li>VitalsMonitor</li>
+					</linkableFacilities>
+					</li>
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+	
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="sd_medicaddons.PatchOperationFindMod">
+				<modName>【ZP】Zipangu pack</modName>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "AnimalStrawBed"]/comps</xpath>
+				<value>
+					<li Class="CompProperties_AffectedByFacilities">
+					<linkableFacilities>
+						<li>sd_medicaddons_medieval_surg_washpan</li>  
+						<li>sd_medicaddons_medieval_surg_instruments</li>
+						<li>sd_medicaddons_medieval_surg_lamp</li>
+						<li>sd_medicaddons_industrial_surg_instruments</li>
+						<li>sd_medicaddons_industrial_surg_lamp</li>
+						<li>sd_medicaddons_spacer_surg_vitalsmonitor</li>
+						<li>sd_medicaddons_spacer_surg_instruments</li>
+						<li>sd_medicaddons_spacer_surg_lamp</li>
+						<li>VitalsMonitor</li>
+					</linkableFacilities>
+					</li>
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+	
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="sd_medicaddons.PatchOperationFindMod">
+				<modName>【ZP】Zipangu pack</modName>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "AnimalStrawBedBig"]/comps</xpath>
+				<value>
+					<li Class="CompProperties_AffectedByFacilities">
+					<linkableFacilities>
+						<li>sd_medicaddons_medieval_surg_washpan</li>  
+						<li>sd_medicaddons_medieval_surg_instruments</li>
+						<li>sd_medicaddons_medieval_surg_lamp</li>
+						<li>sd_medicaddons_industrial_surg_instruments</li>
+						<li>sd_medicaddons_industrial_surg_lamp</li>
+						<li>sd_medicaddons_spacer_surg_vitalsmonitor</li>
+						<li>sd_medicaddons_spacer_surg_instruments</li>
+						<li>sd_medicaddons_spacer_surg_lamp</li>
+						<li>VitalsMonitor</li>
+					</linkableFacilities>
+					</li>
+				</value>
+			</li>
+			
+			</operations>
+	</Operation>
+  
+</Patch>

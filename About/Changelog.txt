@@ -85,3 +85,9 @@ personal changelog for mod "sd_medicaddons"
 - 04/04/2018
 
 	- added medieval times to patches, modcomp
+
+- 08/04/2018
+
+	Ver.: b18-1.0.6
+	- added compatibility with zipangu pack mod, added vitals monitor to some beds, where it was missing
+	- updated version in about file, not that i would forget XD
