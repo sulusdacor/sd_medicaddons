@@ -38,6 +38,7 @@
         <maxSimultaneous>1</maxSimultaneous>
       </li>
     </comps>
+	<constructionSkillPrerequisite>8</constructionSkillPrerequisite>
   </ThingDef>
   
   <!--================================ industrial surgery lamp ======================================-->
@@ -62,7 +63,7 @@
     <size>(1,1)</size>
 	<costList>
 		<Steel>100</Steel>
-		<Component>1</Component>
+		<ComponentIndustrial>1</ComponentIndustrial>
     </costList>
     <comps>
       <li Class="CompProperties_Facility">
@@ -73,7 +74,7 @@
       </li>
 	  <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
-        <startElectricalFires>true</startElectricalFires>
+        <shortCircuitInRain>true</shortCircuitInRain>
         <basePowerConsumption>150</basePowerConsumption>
       </li>
       <li Class="CompProperties_Flickable"/>
@@ -84,6 +85,7 @@
       </li>
     </comps>
 	<specialDisplayRadius>2.5</specialDisplayRadius>
+	<constructionSkillPrerequisite>8</constructionSkillPrerequisite>
   </ThingDef>
   
 </Defs>

@@ -24,7 +24,7 @@
 	<costList>
 		<Steel>100</Steel>
 		<Plasteel>10</Plasteel>
-		<AdvancedComponent>2</AdvancedComponent>
+		<ComponentSpacer>2</ComponentSpacer>
     </costList>
     <comps>
       <li Class="CompProperties_Facility">
@@ -36,7 +36,7 @@
       </li>
 	  <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
-        <startElectricalFires>true</startElectricalFires>
+        <shortCircuitInRain>true</shortCircuitInRain>
         <basePowerConsumption>200</basePowerConsumption>
       </li>
       <li Class="CompProperties_Flickable"/>
@@ -45,6 +45,7 @@
         <glowColor>(115,198,206,0)</glowColor>
       </li>
     </comps>
+	<constructionSkillPrerequisite>12</constructionSkillPrerequisite>
   </ThingDef>
   
   <!--================================ spacer surgery instruments ======================================-->
@@ -70,8 +71,8 @@
 	<costList>
 		<Steel>100</Steel>
 		<Plasteel>10</Plasteel>
-		<GlitterworldMedicine>1</GlitterworldMedicine>
-		<AdvancedComponent>1</AdvancedComponent>
+		<MedicineUltratech>1</MedicineUltratech>
+		<ComponentSpacer>1</ComponentSpacer>
     </costList>
     <comps>
       <li Class="CompProperties_Facility">
@@ -83,7 +84,7 @@
       </li>
 	  <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
-        <startElectricalFires>true</startElectricalFires>
+        <shortCircuitInRain>true</shortCircuitInRain>
         <basePowerConsumption>50</basePowerConsumption>
       </li>
       <li Class="CompProperties_Flickable"/>
@@ -92,6 +93,7 @@
         <glowColor>(115,198,206,0)</glowColor>
       </li>
     </comps>
+	<constructionSkillPrerequisite>12</constructionSkillPrerequisite>
   </ThingDef>
   
   <!--================================ spacer surgery lamp ======================================-->
@@ -117,7 +119,7 @@
 	<costList>
 		<Steel>100</Steel>
 		<Plasteel>10</Plasteel>
-		<AdvancedComponent>2</AdvancedComponent>
+		<ComponentSpacer>2</ComponentSpacer>
     </costList>
     <comps>
       <li Class="CompProperties_Facility">
@@ -128,7 +130,7 @@
       </li>
 	  <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
-        <startElectricalFires>true</startElectricalFires>
+        <shortCircuitInRain>true</shortCircuitInRain>
         <basePowerConsumption>200</basePowerConsumption>
       </li>
       <li Class="CompProperties_Flickable"/>
@@ -140,6 +142,7 @@
     </comps>
 	<rotatable>False</rotatable>
 	<specialDisplayRadius>2.5</specialDisplayRadius>
+	<constructionSkillPrerequisite>12</constructionSkillPrerequisite>
   </ThingDef>
   
 </Defs>
