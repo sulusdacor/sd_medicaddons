@@ -41,6 +41,7 @@
     </comps>
 	<rotatable>False</rotatable>
 	<castEdgeShadows>False</castEdgeShadows>
+	<constructionSkillPrerequisite>4</constructionSkillPrerequisite>
   </ThingDef>
   
   <!--================================ medieval surgery instruments ======================================-->
@@ -86,6 +87,7 @@
       </li>
     </comps>
 	<castEdgeShadows>False</castEdgeShadows>
+	<constructionSkillPrerequisite>4</constructionSkillPrerequisite>
   </ThingDef>
   
   <!--================================ medieval surgery lamp ======================================-->
@@ -138,6 +140,7 @@
           </thingDefs>
         </fuelFilter>
         <destroyOnNoFuel>true</destroyOnNoFuel>
+		<initialFuelPercent>1</initialFuelPercent>
       </li>
 	  <li Class="CompProperties_Glower">
         <overlightRadius>3.5</overlightRadius>
@@ -156,6 +159,8 @@
 	<rotatable>False</rotatable>
 	<castEdgeShadows>False</castEdgeShadows>
 	<specialDisplayRadius>2.5</specialDisplayRadius>
+	<constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+	<tickerType>Normal</tickerType>
   </ThingDef>
   
 </Defs>

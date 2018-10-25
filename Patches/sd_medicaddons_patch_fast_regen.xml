@@ -9,7 +9,7 @@
 		<success>Always</success>
 		<operations>
 			<li Class="sd_medicaddons.PatchOperationFindMod">
-				<modName>Fast regen B18</modName>
+				<modName>Fast regen 1.0</modName>
 			</li>
 			<li Class="PatchOperationAdd">
 				<xpath>*/ThingDef[defName = "IIMed"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
@@ -32,7 +32,7 @@
 		<success>Always</success>
 		<operations>
 			<li Class="sd_medicaddons.PatchOperationFindMod">
-				<modName>Fast regen B18</modName>
+				<modName>Fast regen 1.0</modName>
 			</li>
 			<li Class="PatchOperationAdd">
 				<xpath>*/ThingDef[defName = "MedBed"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
@@ -55,7 +55,7 @@
 		<success>Always</success>
 		<operations>
 			<li Class="sd_medicaddons.PatchOperationFindMod">
-				<modName>Fast regen B18</modName>
+				<modName>Fast regen 1.0</modName>
 			</li>
 			<li Class="PatchOperationAdd">
 				<xpath>*/ThingDef[defName = "HerbBede"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
@@ -78,7 +78,7 @@
 		<success>Always</success>
 		<operations>
 			<li Class="sd_medicaddons.PatchOperationFindMod">
-				<modName>Fast regen B18</modName>
+				<modName>Fast regen 1.0</modName>
 			</li>
 			<li Class="PatchOperationTest">
 				<xpath>*/ThingDef[defName = "AnimalMedicRobo"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]</xpath>
@@ -115,7 +115,7 @@
 		<success>Always</success>
 		<operations>
 			<li Class="sd_medicaddons.PatchOperationFindMod">
-				<modName>Fast regen B18</modName>
+				<modName>Fast regen 1.0</modName>
 			</li>
 			<li Class="PatchOperationTest">
 				<xpath>*/ThingDef[defName = "AnimalMedic"]/comps/li[@Class = "CompProperties_AffectedByFacilities"]</xpath>

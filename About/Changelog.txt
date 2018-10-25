@@ -97,3 +97,17 @@ personal changelog for mod "sd_medicaddons"
 	Ver.: b18-1.0.7
 	- updated modsync file
 	- added mending beds comp
+
+- 23/10/2018
+
+	- update for Rimworld 1.0
+	- xml updates for 1.0
+	- thingcategories buildingsmisc added for minification purposes
+	- replaced components just with new versions
+	- added construction skillrequirements (levels: 4,8,12 for medieval,industrial,spacer)
+	- removed old modsync file for now
+	- changed multi textures to new endings (noth,south,east)
+
+- 25/10/2018
+
+	- fixed fastregen mod name so medicaddons now link
