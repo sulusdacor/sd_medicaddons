@@ -106,12 +106,8 @@ personal changelog for mod "sd_medicaddons"
 	- replaced components just with new versions
 	- added construction skillrequirements (levels: 4,8,12 for medieval,industrial,spacer)
 	- removed old modsync file for now
-<<<<<<< HEAD
 	- changed multi textures to new endings (noth,south,east)
 
 - 25/10/2018
 
 	- fixed fastregen mod name so medicaddons now link
-=======
-	- changed multi textures to new endings (noth,south,east)
->>>>>>> 99e16d468d07312d8b9dea79ebc08f4a3b3dd783
