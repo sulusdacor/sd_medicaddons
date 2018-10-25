@@ -122,6 +122,13 @@
 				<success>Invert</success>
 			</li>
 			<li Class="PatchOperationAdd">
+				<xpath>*/ThingDef[defName = "AnimalMedic"]</xpath>
+				<value>
+				  <comps>
+				  </comps>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
 				<xpath>*/ThingDef[defName = "AnimalMedic"]/comps</xpath>
 				<value>
 				  <li Class="CompProperties_AffectedByFacilities">
