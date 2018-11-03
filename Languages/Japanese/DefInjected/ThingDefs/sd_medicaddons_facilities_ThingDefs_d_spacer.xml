@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- spacer vitalsmonitor -->
+
+  <sd_medicaddons_spacer_surg_vitalsmonitor.label>バイタル モニター(宇宙時代)</sd_medicaddons_spacer_surg_vitalsmonitor.label>
+  <sd_medicaddons_spacer_surg_vitalsmonitor.description>新機能と改良:通常のバイタルモニターとは違い、この宇宙時代のバイタルモニターは新機能のセットが付属しており、患者を監視します。医療ベッドに隣接して配置する必要があります。1つのベットには洗い桶の効果は1つしか適用されませんが、1つのモニターは多くのベッドに適用できます。</sd_medicaddons_spacer_surg_vitalsmonitor.description>
+  <sd_medicaddons_spacer_surg_vitalsmonitor_Blueprint.label>バイタル モニター(宇宙時代)(設計)</sd_medicaddons_spacer_surg_vitalsmonitor_Blueprint.label>
+  <sd_medicaddons_spacer_surg_vitalsmonitor_Blueprint_Install.label>バイタル モニター(宇宙時代)(移動先)</sd_medicaddons_spacer_surg_vitalsmonitor_Blueprint_Install.label>
+  <sd_medicaddons_spacer_surg_vitalsmonitor_Frame.label>バイタル モニター(宇宙時代)(施工)</sd_medicaddons_spacer_surg_vitalsmonitor_Frame.label>
+  <sd_medicaddons_spacer_surg_vitalsmonitor_Frame.description>新機能と改良:通常のバイタルモニターとは違い、この宇宙時代のバイタルモニターは新機能のセットが付属しており、患者を監視します。医療ベッドに隣接して配置する必要があります。1つのベットにはモニターの効果は1つしか適用されませんが、1つのモニターは多くのベッドに適用できます。</sd_medicaddons_spacer_surg_vitalsmonitor_Frame.description>
+
+
+  <!-- spacer surgery instruments -->
+
+  <sd_medicaddons_spacer_surg_instruments.label>手術用器具　(宇宙時代)</sd_medicaddons_spacer_surg_instruments.label>
+  <sd_medicaddons_spacer_surg_instruments.description>私がプラズマカッターを使用する際、ここで作業をする必要があります。全く現実感が無い音で、患者は痛みを感じないだろう。少なくとも、広告はそう言っていますから。医療ベッドに隣接して配置する必要があります。1つのベットには手術用器具の効果は1つしか適用されませんが、1つの手術用器具は多くのベッドに適用できます。</sd_medicaddons_spacer_surg_instruments.description>
+  <sd_medicaddons_spacer_surg_instruments_Blueprint.label>手術用器具　(宇宙時代)(設計)</sd_medicaddons_spacer_surg_instruments_Blueprint.label>
+  <sd_medicaddons_spacer_surg_instruments_Blueprint_Install.label>手術用器具　(宇宙時代)(移動先)</sd_medicaddons_spacer_surg_instruments_Blueprint_Install.label>
+  <sd_medicaddons_spacer_surg_instruments_Frame.label>手術用器具　(宇宙時代)(施工)</sd_medicaddons_spacer_surg_instruments_Frame.label>
+  <sd_medicaddons_spacer_surg_instruments_Frame.description>私がプラズマカッターを使用する際、ここで作業をする必要があります。全く現実感が無い音で、患者は痛みを感じないだろう。少なくとも、広告はそう言っていますから。医療ベッドに隣接して配置する必要があります。1つのベットには手術用器具の効果は1つしか適用されませんが、1つの手術用器具は多くのベッドに適用できます。</sd_medicaddons_spacer_surg_instruments_Frame.description>
+
+
+  <!-- spacer surgery lamp -->
+
+  <sd_medicaddons_spacer_surg_lamp.label>手術用照明　(宇宙時代)</sd_medicaddons_spacer_surg_lamp.label>
+  <sd_medicaddons_spacer_surg_lamp.description>最先端技術の医療器具で、文字通り浮遊する光の球。医療ベッドに隣接して配置する必要があります。1つのベットには洗い桶の効果は1つしか適用されませんが、1つの洗い桶は多くのベッドに適用できます。</sd_medicaddons_spacer_surg_lamp.description>
+  <sd_medicaddons_spacer_surg_lamp_Blueprint.label>手術用照明　(宇宙時代)(設計)</sd_medicaddons_spacer_surg_lamp_Blueprint.label>
+  <sd_medicaddons_spacer_surg_lamp_Blueprint_Install.label>手術用照明　(宇宙時代)(移動先)</sd_medicaddons_spacer_surg_lamp_Blueprint_Install.label>
+  <sd_medicaddons_spacer_surg_lamp_Frame.label>手術用照明　(宇宙時代)(施工)</sd_medicaddons_spacer_surg_lamp_Frame.label>
+  <sd_medicaddons_spacer_surg_lamp_Frame.description>最先端技術の医療器具で、文字通り浮遊する光の球。医療ベッドに隣接して配置する必要があります。1つのベットには手術用照明の効果は1つしか適用されませんが、1つの手術用照明は多くのベッドに適用できます。</sd_medicaddons_spacer_surg_lamp_Frame.description>
+
+
+</LanguageData>

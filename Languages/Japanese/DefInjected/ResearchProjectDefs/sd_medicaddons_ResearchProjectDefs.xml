@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <sd_medicaddons_research_medieval_med.label>中世の医療</sd_medicaddons_research_medieval_med.label>
+  <sd_medicaddons_research_medieval_med.description>あなたの医療技術に中世様式の医療設備を加えます。</sd_medicaddons_research_medieval_med.description>
+
+  <sd_medicaddons_research_industrial_med.label>工業時代の医療</sd_medicaddons_research_industrial_med.label>
+  <sd_medicaddons_research_industrial_med.description>これらの機器を使ってコロニーに医療室エリアを設定すると、あなたの入植の生存確率が増加します。コロニーの医療技術に少し文明的な医療設備を加えます。</sd_medicaddons_research_industrial_med.description>
+
+  <sd_medicaddons_research_spacer_med.label>宇宙時代の医療</sd_medicaddons_research_spacer_med.label>
+  <sd_medicaddons_research_spacer_med.description>最新の技術革新はあなたの植民地全てで目に見える形になります。あなたの医療に宇宙船で行われるような医療設備を加えます。</sd_medicaddons_research_spacer_med.description>
+
+
+</LanguageData>

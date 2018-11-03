@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- ===== medieval wash pan ===== -->
+  <sd_medicaddons_medieval_surg_washpan.label>mittelalterliche Waschschüssel</sd_medicaddons_medieval_surg_washpan.label>
+  <sd_medicaddons_medieval_surg_washpan.description>Eine einfache Errungenschaft, welche die Hände der Quacksalber sauber hält. Muss in der Nähe eines Bettes plaziert werden. Ein Bett kann nur zu einem Gerät der selben Art gleichzeitig verlinkt sein, jedoch können verschiedene Betten das selbe Gerät nutzen.</sd_medicaddons_medieval_surg_washpan.description>
+  <!-- ===== medieval surgery instruments ====== -->
+  <sd_medicaddons_medieval_surg_instruments.label>mittelalterliche Operationsinstrumente</sd_medicaddons_medieval_surg_instruments.label>
+  <sd_medicaddons_medieval_surg_instruments.description>Die Angst vor einer Operation mit diesem Gerät erhöht die Erholung deiner Kolonisten.Muss in der Nähe eines Bettes plaziert werden. Ein Bett kann nur zu einem Gerät der selben Art gleichzeitig verlinkt sein, jedoch können verschiedene Betten das selbe Gerät nutzen.</sd_medicaddons_medieval_surg_instruments.description>
+  <!-- ===== medieval surgery lamp ===== -->
+  <sd_medicaddons_medieval_surg_lamp.label>mittelalterliche Operationslaterne</sd_medicaddons_medieval_surg_lamp.label>
+  <sd_medicaddons_medieval_surg_lamp.description>Es werde Licht ... und dann erkannte der Quacksalber plötzlich, dass er das gesunde Bein amputierte. Muss in der Nähe eines Bettes plaziert werden. Ein Bett kann nur zu einem Gerät der selben Art gleichzeitig verlinkt sein, jedoch können verschiedene Betten das selbe Gerät nutzen.  </sd_medicaddons_medieval_surg_lamp.description>
+  <!-- ===== industrial surgery instruments ===== -->
+  <sd_medicaddons_industrial_surg_instruments.label>industrielle Operationsinstrumente</sd_medicaddons_industrial_surg_instruments.label>
+  <sd_medicaddons_industrial_surg_instruments.description>Sie sehen immer noch gefährlich aus, beeinflussen jedoch nicht die Operationschancen. Muss in der Nähe eines Bettes plaziert werden. Ein Bett kann nur zu einem Gerät der selben Art gleichzeitig verlinkt sein, jedoch können verschiedene Betten das selbe Gerät nutzen.</sd_medicaddons_industrial_surg_instruments.description>
+  <!-- ===== industrial surgery lamp ===== -->
+  <sd_medicaddons_industrial_surg_lamp.label>industrielles Operationslicht</sd_medicaddons_industrial_surg_lamp.label>
+  <sd_medicaddons_industrial_surg_lamp.description>Sich die Sache im richtigen Licht ansehen bekommt eine ganz neue Bedeutung, wenn man in einer Operation über einem offenem Körper steht. Muss in der Nähe eines Bettes plaziert werden. Ein Bett kann nur zu einem Gerät der selben Art gleichzeitig verlinkt sein, jedoch können verschiedene Betten das selbe Gerät nutzen.</sd_medicaddons_industrial_surg_lamp.description>
+  <!-- ===== space vitalsmonitor ===== -->
+  <sd_medicaddons_space_surg_vitalsmonitor.label>weltraum Vitalsmonitor</sd_medicaddons_space_surg_vitalsmonitor.label>
+  <sd_medicaddons_space_surg_vitalsmonitor.description>Neu und Verbessert: Nicht wie die normale Version, dieses Baby kommt mit einem Set von neuen Funktionen die Patienten zu überwachen. Muss in der Nähe eines Bettes plaziert werden. Ein Bett kann nur zu einem Gerät der selben Art gleichzeitig verlinkt sein, jedoch können verschiedene Betten das selbe Gerät nutzen.</sd_medicaddons_space_surg_vitalsmonitor.description>
+  <!-- ===== space surgery instruments ===== -->
+  <sd_medicaddons_space_surg_instruments.label>weltraum Operationsinstrumente</sd_medicaddons_space_surg_instruments.label>
+  <sd_medicaddons_space_surg_instruments.description>Wenn ich den Plasmaschneider hier ansetze sollte alles gut gehen. Klingt nicht sehr überzeugend, aber der Patient fühlt eh keine Schmerzen. Zumindest behauptet dies die Gerätewerbung. Muss in der Nähe eines Bettes plaziert werden. Ein Bett kann nur zu einem Gerät der selben Art gleichzeitig verlinkt sein, jedoch können verschiedene Betten das selbe Gerät nutzen.</sd_medicaddons_space_surg_instruments.description>
+  <!-- ===== space surgery lamp ===== -->
+  <sd_medicaddons_space_surg_lamp.label>weltraum Operationslicht</sd_medicaddons_space_surg_lamp.label>
+  <sd_medicaddons_space_surg_lamp.description>Die neuest Errungenschaft in der Operationsindustry, wortwörtlich ein Lichtbündel. Muss in der Nähe eines Bettes plaziert werden. Ein Bett kann nur zu einem Gerät der selben Art gleichzeitig verlinkt sein, jedoch können verschiedene Betten das selbe Gerät nutzen.</sd_medicaddons_space_surg_lamp.description>
+</LanguageData>

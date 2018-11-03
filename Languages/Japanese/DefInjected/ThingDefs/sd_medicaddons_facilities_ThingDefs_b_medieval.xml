@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- medieval wash pan -->
+
+  <sd_medicaddons_medieval_surg_washpan.label>洗い桶(中世)</sd_medicaddons_medieval_surg_washpan.label>
+  <sd_medicaddons_medieval_surg_washpan.description>最も単純な設備で、医者の手の清潔さを維持します。医療ベッドに隣接して配置する必要があります。1つのベットには洗い桶の効果は1つしか適用されませんが、1つの洗い桶は多くのベッドに適用できます。</sd_medicaddons_medieval_surg_washpan.description>
+  <sd_medicaddons_medieval_surg_washpan_Blueprint.label>洗い桶(中世)(blueprint)</sd_medicaddons_medieval_surg_washpan_Blueprint.label>
+  <sd_medicaddons_medieval_surg_washpan_Blueprint_Install.label>洗い桶(中世)(blueprint)</sd_medicaddons_medieval_surg_washpan_Blueprint_Install.label>
+  <sd_medicaddons_medieval_surg_washpan_Frame.label>洗い桶(中世)(building)</sd_medicaddons_medieval_surg_washpan_Frame.label>
+  <sd_medicaddons_medieval_surg_washpan_Frame.description>最も単純な設備で、医者の手の清潔さを維持します。医療ベッドに隣接して配置する必要があります。1つのベットには洗い桶の効果は1つしか適用されませんが、1つの洗い桶は多くのベッドに適用できます。</sd_medicaddons_medieval_surg_washpan_Frame.description>
+
+
+  <!-- medieval surgery instruments -->
+
+  <sd_medicaddons_medieval_surg_instruments.label>手術用器具　(中世時代)</sd_medicaddons_medieval_surg_instruments.label>
+  <sd_medicaddons_medieval_surg_instruments.description>これらの手術道具とその使い方による恐怖は、入植者の回復速度を増加します。医療ベッドに隣接して配置する必要があります。1つのベットには洗い桶の効果は1つしか適用されませんが、1つの洗い桶は多くのベッドに適用できます。</sd_medicaddons_medieval_surg_instruments.description>
+  <sd_medicaddons_medieval_surg_instruments_Blueprint.label>手術用器具　(中世時代)(blueprint)</sd_medicaddons_medieval_surg_instruments_Blueprint.label>
+  <sd_medicaddons_medieval_surg_instruments_Blueprint_Install.label>手術用器具　(中世時代)(blueprint)</sd_medicaddons_medieval_surg_instruments_Blueprint_Install.label>
+  <sd_medicaddons_medieval_surg_instruments_Frame.label>手術用器具　(中世時代)(building)</sd_medicaddons_medieval_surg_instruments_Frame.label>
+  <sd_medicaddons_medieval_surg_instruments_Frame.description>これらの手術道具とその使い方による恐怖は、入植者の回復速度を増加します。医療ベッドに隣接して配置する必要があります。1つのベットには手術用器具の効果は1つしか適用されませんが、1つの手術用器具は多くのベッドに適用できます。</sd_medicaddons_medieval_surg_instruments_Frame.description>
+
+
+  <!-- medieval surgery lamp -->
+
+  <sd_medicaddons_medieval_surg_lamp.label>手術用照明　(中世時代)</sd_medicaddons_medieval_surg_lamp.label>
+  <sd_medicaddons_medieval_surg_lamp.description>「光が無いとダメだな」健全な足を切り落とした医者は気が付きました。医療ベッドに隣接して配置する必要があります。1つのベットには洗い桶の効果は1つしか適用されませんが、1つの洗い桶は多くのベッドに適用できます。</sd_medicaddons_medieval_surg_lamp.description>
+  <sd_medicaddons_medieval_surg_lamp_Blueprint.label>手術用照明　(中世時代)</sd_medicaddons_medieval_surg_lamp_Blueprint.label>
+  <sd_medicaddons_medieval_surg_lamp_Blueprint_Install.label>手術用照明　(中世時代)</sd_medicaddons_medieval_surg_lamp_Blueprint_Install.label>
+  <sd_medicaddons_medieval_surg_lamp_Frame.label>手術用照明　(中世時代)</sd_medicaddons_medieval_surg_lamp_Frame.label>
+  <sd_medicaddons_medieval_surg_lamp_Frame.description>「光が無いとダメだな」健全な足を切り落とした医者は気が付きました。医療ベッドに隣接して配置する必要があります。1つのベットには手術用照明の効果は1つしか適用されませんが、1つの手術用照明は多くのベッドに適用できます。</sd_medicaddons_medieval_surg_lamp_Frame.description>
+
+
+</LanguageData>

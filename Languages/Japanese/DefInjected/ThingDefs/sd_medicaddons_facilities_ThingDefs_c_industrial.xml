@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- industrial surgery instruments -->
+
+  <sd_medicaddons_industrial_surg_instruments.label>手術用器具　(工業時代)</sd_medicaddons_industrial_surg_instruments.label>
+  <sd_medicaddons_industrial_surg_instruments.description>これらの手術道具はまだ恐ろしいが、あなたの治療成功率には影響しません。医療ベッドに隣接して配置する必要があります。1つのベットには手術用器具の効果は1つしか適用されませんが、1つの手術用器具は多くのベッドに適用できます。</sd_medicaddons_industrial_surg_instruments.description>
+  <sd_medicaddons_industrial_surg_instruments_Blueprint.label>手術用器具　(工業時代)(設計)</sd_medicaddons_industrial_surg_instruments_Blueprint.label>
+  <sd_medicaddons_industrial_surg_instruments_Blueprint_Install.label>手術用器具　(工業時代)(移動先)</sd_medicaddons_industrial_surg_instruments_Blueprint_Install.label>
+  <sd_medicaddons_industrial_surg_instruments_Frame.label>手術用器具　(工業時代)(施工)</sd_medicaddons_industrial_surg_instruments_Frame.label>
+  <sd_medicaddons_industrial_surg_instruments_Frame.description>これらの手術道具はまだ恐ろしいが、あなたの治療成功率には影響しません。医療ベッドに隣接して配置する必要があります。1つのベットには手術用器具の効果は1つしか適用されませんが、1つの手術用器具は多くのベッドに適用できます。</sd_medicaddons_industrial_surg_instruments_Frame.description>
+
+
+  <!-- industrial surgery lamp -->
+
+  <sd_medicaddons_industrial_surg_lamp.label>手術用照明　(工業時代)</sd_medicaddons_industrial_surg_lamp.label>
+  <sd_medicaddons_industrial_surg_lamp.description>あなたが開腹した体の上に立って手術をしていない限り、物に明るい光を当てる事は新しい意味があります。医療ベッドに隣接して配置する必要があります。1つのベットには手術用照明の効果は1つしか適用されませんが、1つの手術用照明は多くのベッドに適用できます。</sd_medicaddons_industrial_surg_lamp.description>
+  <sd_medicaddons_industrial_surg_lamp_Blueprint.label>手術用照明　(工業時代)(設計)</sd_medicaddons_industrial_surg_lamp_Blueprint.label>
+  <sd_medicaddons_industrial_surg_lamp_Blueprint_Install.label>手術用照明　(工業時代)(移動先)</sd_medicaddons_industrial_surg_lamp_Blueprint_Install.label>
+  <sd_medicaddons_industrial_surg_lamp_Frame.label>手術用照明　(工業時代)(施工)</sd_medicaddons_industrial_surg_lamp_Frame.label>
+  <sd_medicaddons_industrial_surg_lamp_Frame.description>あなたが開腹した体の上に立って手術をしていない限り、物に明るい光を当てる事は新しい意味があります。医療ベッドに隣接して配置する必要があります。1つのベットには手術用照明の効果は1つしか適用されませんが、1つの手術用照明は多くのベッドに適用できます。</sd_medicaddons_industrial_surg_lamp_Frame.description>
+
+
+</LanguageData>

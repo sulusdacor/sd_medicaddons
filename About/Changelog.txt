@@ -111,3 +111,9 @@ personal changelog for mod "sd_medicaddons"
 - 25/10/2018
 
 	- fixed fastregen mod name so medicaddons now link
+
+- 03/11/2018
+
+	- added japanese language file by proxyer
+	- added spanish and spanislatin by canaleta
+	- german by sulusdacor
