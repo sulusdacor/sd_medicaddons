@@ -117,3 +117,19 @@ personal changelog for mod "sd_medicaddons"
 	- added japanese language file by proxyer
 	- added spanish and spanislatin by canaleta
 	- german by sulusdacor
+
+- 02/12/2018
+
+	. added missing rimkea petbeds in patchxml
+	- added surgerysucesschance to stuff:
+		medieval:	light		0.03
+				wash		0.03
+				instrument	0.03
+
+		industrial:	light		0.05
+				vitals		0.05 (vanilla)
+				instrument	0.05
+
+		spacer:		light		0.07
+				vitals		0.07
+				instrument	0.07

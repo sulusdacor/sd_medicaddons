@@ -35,6 +35,7 @@
       <li Class="CompProperties_Facility">
         <statOffsets>
           <MedicalTendQualityOffset>0.02</MedicalTendQualityOffset>
+		  <SurgerySuccessChanceFactor>0.03</SurgerySuccessChanceFactor>
         </statOffsets>
         <maxSimultaneous>1</maxSimultaneous>
       </li>
@@ -82,6 +83,7 @@
         <statOffsets>
 		  <MedicalTendQualityOffset>-0.01</MedicalTendQualityOffset>
           <ImmunityGainSpeedFactor>0.02</ImmunityGainSpeedFactor>
+		  <SurgerySuccessChanceFactor>0.03</SurgerySuccessChanceFactor>
         </statOffsets>
         <maxSimultaneous>1</maxSimultaneous>
       </li>
@@ -127,6 +129,7 @@
       <li Class="CompProperties_Facility">
         <statOffsets>
 		  <MedicalTendQualityOffset>0.02</MedicalTendQualityOffset>
+		  <SurgerySuccessChanceFactor>0.03</SurgerySuccessChanceFactor>
         </statOffsets>
         <maxSimultaneous>1</maxSimultaneous>
       </li>
