@@ -133,3 +133,7 @@ personal changelog for mod "sd_medicaddons"
 		spacer:		light		0.07
 				vitals		0.07
 				instrument	0.07
+
+- 04/12/2018
+
+	- added flickable to all powered stuff

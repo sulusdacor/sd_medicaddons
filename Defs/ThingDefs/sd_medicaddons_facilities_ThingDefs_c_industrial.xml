@@ -85,6 +85,7 @@
         <glowRadius>6</glowRadius>
         <glowColor>(370,370,370,0)</glowColor>
       </li>
+	  <li Class="CompProperties_Flickable"/>
     </comps>
 	<specialDisplayRadius>2.5</specialDisplayRadius>
 	<constructionSkillPrerequisite>8</constructionSkillPrerequisite>
